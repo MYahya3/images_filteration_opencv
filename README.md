@@ -1,7 +1,9 @@
 # Image Filtering with Opencv
 
-## To try the Image Filter App online click on the link --> https://imagesfilterationopencv-kkzefrqyzxz7nir3cb9zea.streamlit.app/
-
+#### To try the Image Filter App online use below link 
+```bash
+https://imagesfilterationopencv-kkzefrqyzxz7nir3cb9zea.streamlit.app/
+```
 ## Local System Configuration
 
 1. Clone the repository:
