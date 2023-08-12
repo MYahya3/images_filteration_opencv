@@ -1,6 +1,6 @@
-# Image Filtering with Opencv
+# Image Filtering and Enhancement with Opencv
 
-#### To try the Image Filter App online use below link 
+#### To try the Image Filter App online use the below link 
 ```bash
 https://imagesfilterationopencv-kkzefrqyzxz7nir3cb9zea.streamlit.app/
 ```
